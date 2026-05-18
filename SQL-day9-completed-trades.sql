@@ -30,5 +30,3 @@ Sorted the results in descending order to prioritize cities with the highest act
 Applied `LIMIT 3` to return only the top 3 performing cities.
 Solved the problem by creating a city-level summary of completed trade activity.
 */
-
-
