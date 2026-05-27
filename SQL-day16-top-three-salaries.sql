@@ -4,7 +4,7 @@
 
 -- Link: https://datalemur.com/questions/sql-top-three-salaries
 
--- Concept: CTE, Subquery, DENSE_RANK(), JOIN.
+-- Concept: CTE, DENSE_RANK(), JOIN.
 
 -- Query
 WITH  top_3_salary_rank AS(
