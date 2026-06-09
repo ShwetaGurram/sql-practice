@@ -4,7 +4,7 @@
 
 -- Link: https://datalemur.com/questions/uncategorized-calls-percentage
 
--- Concept: WINDOW FUNCTION, ROUND.
+-- Concept: AGGREGATE FUNCTION, ROUND.
 
 -- Query
 SELECT 
